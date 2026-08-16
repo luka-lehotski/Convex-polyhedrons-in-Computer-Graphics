@@ -14,11 +14,11 @@ A computational geometry project focused on the generation, data representation,
 ##  Interface Screenshots
 
 <p align="center">
-  <img src="OVDE_PASTUJ_PRVI_LINK_SLIKE" alt="Interface View 1" width="90%">
+  <img src="https://github.com/user-attachments/assets/ec6f71a9-644a-4b69-a392-ceff2d74cac6" alt="Interface View 1" width="90%">
 </p>
 
 <p align="center">
-  <img src="OVDE_PASTUJ_PRVI_LINK_SLIKE" alt="Interface View 1" width="45%">
-  <img src="OVDE_PASTUJ_DRUGI_LINK_SLIKE" alt="Interface View 2" width="45%">
+  <img src="https://github.com/user-attachments/assets/3c516173-92a2-498c-9526-e83ddf5c9cfa" alt="Interface View 1" width="45%">
+  <img src="https://github.com/user-attachments/assets/9b12d24e-6952-4a37-98d9-aad04e945f41" alt="Interface View 2" width="45%">
 </p>
 
