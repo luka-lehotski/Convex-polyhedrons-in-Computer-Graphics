@@ -5,7 +5,7 @@ A computational geometry project focused on the generation, data representation,
 ---
 
 ##  Key Features & Implementation
-* **Object Representation & Storage:** Optimized data structures for storing 3D components (vertices, edges, and faces) of complex polyhedral geometries.
+* **Object Representation & Storage:** Data structures for storing 3D components (vertices, edges, and faces) of polyhedral geometries.
 * **Spatial Transformations:** Iplementation of geometric transformations using matrix operations and **quaternions** for smooth, gimbal-lock-free 3D rotations.
 * **Interactive C# Interface:** A desktop application GUI built in C# for visualization and interaction with the polyhedral models.
 
